@@ -1,1 +1,1 @@
-![Descrição da Imagem](https://github.com/francinedds/skeuomorphism-switch/tree/main/image)
+![Minha Imagem]([images/minha_imagem.png](https://github.com/francinedds/skeuomorphism-switch/tree/main/image))
